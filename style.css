@@ -87,7 +87,7 @@ body {
     height: 210px;
     
     top: 110px;
-    margin-left: 20%;
+    margin-left: 35%;
     z-index: 0;
     
     background-color: #fff;
@@ -130,7 +130,7 @@ body {
 /*container*/
 .container {
     display: inline-block;
-    margin-left: 31%;
+    margin-left: 43%;
 
     width: 600px;
     
